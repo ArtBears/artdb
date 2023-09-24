@@ -1,0 +1,8 @@
+./venv
+venv
+venv/*
+./artdbenv/*
+artdbenv
+artdbenv/*
+__pycache__
+__pycache__/*
